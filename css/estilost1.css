@@ -1,0 +1,188 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	list-style: none;
+
+
+}
+
+body{
+
+	background: url('https://i.imgur.com/3Xlx0QE.jpg');
+	background-attachment: fixed;
+
+
+}
+
+#logo{
+
+	background: #6363CE;
+	padding: 20px;
+	margin-right: 920px;
+	margin-left: 65px;
+	margin-bottom: 0px;
+	margin-top: 10px;
+	text-align: center;
+	border-radius: 19px 19px 19px 19px;
+	border: 2px solid #000000;
+	box-shadow:  inset 0 1px 0 #fff, inset 0 -1px 0 #dadada, 0 0 15px rgba(0,0,0,.07);
+}
+
+h1{
+
+	color: #ffffff;	
+	font-family: 'Roboto Condensed',Verdana, Arial;
+	font-size: 20px;
+
+
+}	
+
+h2{
+
+	background:  #6363CE;
+	color: white;
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+	margin-left: 0px;
+	margin-right: 920px;
+	margin-top: 0px;
+	padding: 20px;
+	padding-top: 20px; 
+	padding-left: 50px;
+	border-radius: 11px 59px 59px 11px;
+	border-left: none;
+	text-align: center;
+
+}	
+
+
+nav{
+
+
+	padding: 20px;
+	background: #fafafa;
+	text-align: center;	
+	font-family: 'Viga',Helvetica, Arial;
+	border-radius: 17px 17px 17px 17px;
+	box-shadow:  inset 0 1px 0 #fff, inset 0 -1px 0 #dadada, 0 0 15px rgba(0,0,0,.07);
+	margin: 70px;
+	margin-top: 20px; 
+	margin-bottom: 20px;
+
+
+	
+
+}
+
+nav li{
+
+	font-size: 15px;
+	display: inline;
+	color: #262626;
+	padding: 20px;
+	padding-left: 100px;
+	padding-right: 100px;
+	margin: 0px;
+	border-radius: 47px 10px 64px 10px;
+
+	
+
+
+}
+
+a{
+
+	text-decoration-color: none;
+	text-decoration: none;
+}
+
+nav li:hover{
+
+	background: #fafafa;
+	transition: all 0.5s;
+	cursor: pointer;
+	box-shadow: inset 0px -1px 6px 3px rgba(0,0,0,0.27);
+	padding: 50px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background: #151515;
+	color: white;
+	transition: all 0.5s;
+
+
+}
+
+
+
+#informacion{
+
+	background: #fafafa;
+	margin-top: 0px;
+	margin-bottom: 20px;
+	margin-left: 100px;
+	margin-right: 100px;
+	padding-bottom: 400px;
+	box-shadow:  inset 0 1px 0 #fff, inset 0 -1px 0 #dadada, 0 0 15px rgba(0,0,0,.07);
+
+}
+
+#parrafoinf{
+
+	font-size: 20px;
+	font-family: 'ZCOOL QingKe HuangYou', Arial, Verdana;
+	text-align: justify;
+	width: 850px;
+	height: 100px;
+	margin: 30px;
+	margin-left: 130px;
+	margin-right: 50px;
+	clear: none;
+	float: left;
+
+}
+
+#pie_de_pagina{
+
+
+	clear: both;
+	text-align: center;
+	font-size: 13px;
+	font-family: 'Fredoka One', Helvetica, Arian;
+	
+	
+
+}
+
+#pie{
+
+	clear: both;
+	background: #fafafa;
+	box-shadow:  inset 0 1px 0 #fff, inset 0 -1px 0 #dadada, 0 0 15px rgba(0,0,0,.07);
+	border-top: 1px solid black;
+
+
+
+
+}
+
+
+
+.cajas{
+
+	display: block;
+	float: right;
+	clear: both;
+	
+
+
+
+}
+
+p:hover{
+
+
+	color:#6363CE;
+	transition: 0.5s;
+	text-shadow: 4px 4px 2px rgba(150, 150, 150, 1);
+
+}
